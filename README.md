@@ -36,7 +36,7 @@ To install the software and tools required to use the Advantech, follow these st
    
 3. Compile the package using:
     ```bash
-    colcon build --packages-select advantech_usb4718
+    colcon build
     ```
 
 ## Usage
